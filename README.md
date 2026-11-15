@@ -1,0 +1,202 @@
+<!-- ================= HEADER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6d28d9,100:06b6d4&height=200&section=header&text=Ali%20Shaikh&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20LLMs%20%E2%80%A2%20RAG%20%E2%80%A2%20Full-Stack&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://ali-shaikh.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+LLM-powered+apps+%F0%9F%A4%96;RAG+pipelines+%7C+Multi-agent+systems;AI+that+works+in+production%2C+not+just+demos;Open+to+AI%2FML+Engineering+roles+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://ali-shaikh.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ali-shaikhh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:alishaikhh15@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://ali-shaikh.vercel.app/resume.pdf"><img src="https://img.shields.io/badge/Resume-6d28d9?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ali-shaiikh&label=Profile%20views&color=06b6d4&style=flat-square" />
+  <img src="https://img.shields.io/badge/📍_Mumbai,_IN-1e293b?style=flat-square" />
+  <img src="https://img.shields.io/badge/🟢_Available_for_work-1e293b?style=flat-square" />
+</p>
+
+---
+
+## 👋 About Me
+
+```python
+class AliShaikh:
+    role       = "AI Engineer"
+    location   = "Mumbai, India 🇮🇳"
+    education  = "B.E. Computer Engineering @ University of Mumbai (2022–2026)"
+    focus      = ["LLM-powered apps", "RAG pipelines", "Multi-agent systems", "Full-stack platforms"]
+    community  = "Co-Founder @ ArcadeOps · Co-Facilitator @ Google Cloud Arcade"
+    impact     = "2000+ learners guided · products used by farmers, students & developers"
+
+    def mission(self):
+        return "Build AI that works in deployed systems, not just demos."
+```
+
+- 🔭 I build **LLM-powered applications**, **RAG pipelines**, and **scalable AI systems**
+- 🌱 Currently exploring **agentic AI**, **multi-agent orchestration**, and **open-source AI tooling**
+- 🧑‍🏫 Helped **2000+ learners** through Google Cloud Arcade and the ArcadeOps community
+- 💼 Looking for roles where I can **ship meaningful AI systems from day one**
+- 📫 Reach me at **alishaikhh15@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center"><b>Languages</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,cpp&theme=dark" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="48" />
+</p>
+
+<p align="center"><b>AI / ML</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" /><br/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/RAG-6d28d9?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
+</p>
+
+<p align="center"><b>Backend & Frontend</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,express,react,nextjs,tailwind,materialui&theme=dark" /><br/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
+
+<p align="center"><b>Cloud, Data & Tools</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gcp,aws,mongodb,git,github,docker&theme=dark" /><br/>
+  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌾 FarmChain</h3>
+      <p>AI-powered agri marketplace and advisory system. Farmers get crop and market guidance from a <b>RAG + LangChain</b> intelligence layer.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 Quizzora</h3>
+      <p>Multi-agent LLM app that turns lectures, audio, and documents into <b>quizzes and summaries</b>, with Whisper for transcription.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/-GPT--4-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Whisper-412991?style=flat-square&logo=openai&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 Querify</h3>
+      <p>Natural language to SQL. Upload a CSV, ask questions in plain English, and get <b>generated SQL queries</b> and answers.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛋️ Innovation Furniture</h3>
+      <p>Full-stack <b>e-commerce platform</b> for a premium furniture and interiors brand with showrooms across Mumbai.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗂️ CO-LAB Vault</h3>
+      <p>Collaborative <b>project and resource management</b> platform for teams to organise work and share resources.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📐 PlanForge</h3>
+      <p>Converts <b>floor plan images into AutoCAD DXF</b> files using Claude vision, all in a single-file web app.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Anthropic_API-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/-DXF-0696D7?style=flat-square&logo=autodesk&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://ali-shaikh.vercel.app"><b>➜ See all projects on my portfolio</b></a>
+</p>
+
+---
+
+## 💼 Experience & Community
+
+| Role | Organisation | Period |
+|---|---|---|
+| 🚀 **Co-Founder** | ArcadeOps Community | Jan 2024 – Present |
+| ☁️ **Co-Facilitator** | Google Cloud Arcade (GCAF25) | Mar 2025 – Dec 2025 |
+
+## 🏆 Certifications & Achievements
+
+- 🥇 **Google Cloud Arcade Facilitator Program**: First Milestone · 1800+ badges · Cohort 1
+- 🤖 **Artificial Intelligence A-Z 2025**: Agentic AI, Gen AI & RL (Udemy)
+- 🌐 **The Complete Full-Stack Web Development Bootcamp** (Udemy)
+- ☁️ **AWS Academy Graduate**: Data Engineering
+- 👁️ **Google Cloud**: Analyze Images with Cloud Vision API
+- 📮 **Postman API Fundamentals Student Expert**
+- ✨ **GenAI 101 with Pieces**: Prompt engineering & local LLMs
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ali-shaiikh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=a78bfa&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-shaiikh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ali-shaiikh&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=22d3ee&currStreakLabel=22d3ee" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-shaiikh&bg_color=0d1117&color=a78bfa&line=22d3ee&point=ffffff&area=true&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Build AI that works in deployed systems, not just demos."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:6d28d9,100:0f172a&height=120&section=footer" width="100%" />
+</p>
