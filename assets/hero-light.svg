@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320">
+  <defs>
+    <pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#eaeef2"/></pattern>
+    <linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#ffffff"/><stop offset=".55" stop-color="#ffffff" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect width="1000" height="320" rx="12" fill="#ffffff"/>
+  <rect x="520" width="480" height="320" fill="url(#grid)"/>
+  <rect x="520" width="480" height="320" fill="url(#fade)"/>
+
+  <!-- text -->
+  <text x="56" y="104" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" letter-spacing="2" fill="#0969da">AI ENGINEER</text>
+  <text x="54" y="164" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="56" font-weight="600" letter-spacing="-1.5" fill="#1f2328">Ali Shaikh</text>
+  <text x="56" y="204" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="18" fill="#59636e">LLM applications, RAG pipelines and the</text>
+  <text x="56" y="230" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="18" fill="#59636e">systems that keep them running in production.</text>
+  <text x="56" y="268" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#59636e">Mumbai, India  ·  open to roles</text>
+
+  <!-- pipeline -->
+  <path d="M640,110 L780,110 L920,110 L920,220 L780,220 L640,220" fill="none" stroke="#d1d9e0" stroke-width="1.5"/>
+  <path d="M640,110 L780,110 L920,110 L920,220 L780,220 L640,220" fill="none" stroke="#0969da" stroke-width="1.5" stroke-dasharray="40 900" stroke-linecap="round" opacity=".9">
+    <animate attributeName="stroke-dashoffset" values="40;-640" dur="5s" repeatCount="indefinite"/>
+  </path>
+  <circle r="3.5" fill="#0969da">
+    <animateMotion dur="5s" repeatCount="indefinite" path="M640,110 L780,110 L920,110 L920,220 L780,220 L640,220"/>
+  </circle>
+  
+    <g transform="translate(640,110)">
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="5.0s" begin="0.0s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1"/>
+        <rect x="-37.5" y="-16" width="75.0" height="32" rx="6" fill="#f6f8fa" stroke="#d1d9e0"/>
+        <text y="4.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#1f2328">query</text>
+      </g>
+    </g>
+    <g transform="translate(780,110)">
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="5.6s" begin="0.5s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1"/>
+        <rect x="-37.5" y="-16" width="75.0" height="32" rx="6" fill="#f6f8fa" stroke="#d1d9e0"/>
+        <text y="4.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#1f2328">embed</text>
+      </g>
+    </g>
+    <g transform="translate(920,110)">
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="6.2s" begin="1.0s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1"/>
+        <rect x="-53.9" y="-16" width="107.8" height="32" rx="6" fill="#f6f8fa" stroke="#d1d9e0"/>
+        <text y="4.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#1f2328">vector db</text>
+      </g>
+    </g>
+    <g transform="translate(920,220)">
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="6.8s" begin="1.5s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1"/>
+        <rect x="-49.8" y="-16" width="99.6" height="32" rx="6" fill="#f6f8fa" stroke="#d1d9e0"/>
+        <text y="4.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#1f2328">retrieve</text>
+      </g>
+    </g>
+    <g transform="translate(780,220)">
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="7.4s" begin="2.0s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1"/>
+        <rect x="-29.3" y="-16" width="58.6" height="32" rx="6" fill="#f6f8fa" stroke="#d1d9e0"/>
+        <text y="4.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#1f2328">llm</text>
+      </g>
+    </g>
+    <g transform="translate(640,220)">
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="8.0s" begin="2.5s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1"/>
+        <rect x="-41.6" y="-16" width="83.2" height="32" rx="6" fill="#f6f8fa" stroke="#d1d9e0"/>
+        <text y="4.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#1f2328">answer</text>
+      </g>
+    </g>
+
+  <rect x=".5" y=".5" width="999" height="319" rx="12" fill="none" stroke="#d1d9e0"/>
+</svg>
