@@ -49,7 +49,7 @@ def demo():
             day = start + timedelta(days=w * 7 + d)
             if day > date.today():
                 break
-            c = 0 if random.random() < .35 else int(random.expovariate(1 / 6))
+            c = 0  # placeholder: empty grid until the workflow fetches real data
             lvl = 0 if c == 0 else min(4, 1 + c // 4)
             total += c
             days.append((day.isoformat(), c, lvl))
@@ -104,7 +104,7 @@ def render(total, weeks):
     a(f'<circle cx="{W*.82}" cy="{H*.7}" r="230" fill="url(#blobB)"><animate attributeName="cx" values="{W*.82};{W*.65};{W*.82}" dur="15s" repeatCount="indefinite"/></circle>')
 
     # header
-    a(f'<text x="{gx}" y="44" font-family="{FONT}" font-size="22" font-weight="700" fill="#f0f6fc">{total:,} contributions</text>')
+    a(f'<text x="{gx}" y="44" font-family="{FONT}" font-size="22" font-weight="700" fill="#f0f6fc">Contribution activity</text>')
     a(f'<text x="{gx}" y="66" font-family="{MONO}" font-size="12" letter-spacing="1.5" fill="#8b949e">IN THE LAST YEAR  ·  @{USER}</text>')
     # phase label (top right)
     phases = [("ASSEMBLING", ASSEMBLE, SCAN), ("SCANNING", SCAN, NEURAL), ("NEURAL MODE", NEURAL, DISSOLVE), ("RESETTING", DISSOLVE, LOOP)]
